@@ -1,1 +1,1 @@
-# upORF-motif
+# upORF-motif-discover
